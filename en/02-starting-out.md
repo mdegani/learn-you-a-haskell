@@ -4,20 +4,20 @@ Starting Out
 Ready, set, go!
 ---------------
 
-![egg](img/startingout.png) Alright, let's get
+<!-- ![egg](img/startingout.png) Alright, let's get
 started! If you're the sort of horrible person who doesn't read
 introductions to things and you skipped it, you might want to read the
 last section in the introduction anyway because it explains what you
 need to follow this tutorial and how we're going to load functions. The
 first thing we're going to do is run ghc's interactive mode and call
 some function to get a very basic feel for haskell. Open your terminal
-and type in `ghci`. You will be greeted with something like this.
+and type in `ghci`. You will be greeted with something like this. -->
 
-~~~~ {.haskell: .ghci name="code"}
+<!-- ~~~~ {.haskell: .ghci name="code"}
 GHCi, version 6.8.2: http://www.haskell.org/ghc/  :? for help
 Loading package base ... linking ... done.
 Prelude>
-~~~~
+~~~~ -->
 
 Congratulations, you're in GHCI! The prompt here is `Prelude>` but
 because it can get longer when you load stuff into the session, we're
